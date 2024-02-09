@@ -1,0 +1,15 @@
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\bin\Debug\net7.0\jamming.exe
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\bin\Debug\net7.0\jamming.deps.json
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\bin\Debug\net7.0\jamming.runtimeconfig.json
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\bin\Debug\net7.0\jamming.dll
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\bin\Debug\net7.0\jamming.pdb
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.csproj.AssemblyReference.cache
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.AssemblyInfoInputs.cache
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.AssemblyInfo.cs
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.csproj.CoreCompileInputs.cache
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.dll
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\refint\jamming.dll
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.pdb
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\jamming.genruntimeconfig.cache
+C:\Users\arlan\OneDrive\Bureau\Certif_Programs\C#\jamming_practice\jamming\obj\Debug\net7.0\ref\jamming.dll
